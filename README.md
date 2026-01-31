@@ -13,7 +13,7 @@ I am a 3D Graphics Programmer focused on high-performance C++ systems and the Vu
 * **Cross-platform:** Native support for Windows, Linux (NixOS), and Android.
 * **UI:** Integrated UltraLight for HTML/CSS/JS-based interfaces.
 
-### [Wolf-Engine 3D Editor](https://github.com/arthur-monteiro/Wolf-Engine-3D-Editor)
+### [Wolf-Engine 3D Editor](https://github.com/arthur-monteiro/Wolf-Engine-2.0--3D-Editor)
 **A comprehensive development environment built on Wolf-Engine 2.0.**
 * **Global illumination:** Real-time Voxel-Based Global Illumination (VXGI) for indirect lighting.
 * **Streaming:** Dynamic texture streaming and virtual texturing via tile-based slicing.
