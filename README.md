@@ -30,6 +30,8 @@ I am a 3D Graphics Programmer focused on high-performance C++ systems and the Vu
 <p align="center">
   <img src="https://github.com/arthur-monteiro/Wolf-Engine-2.0--3D-Editor/blob/main/Screenshots/sponza_intel.png" width="47%" alt="Editor Screenshot" />
   <img src="https://github.com/arthur-monteiro/Wolf-Engine-2.0--3D-Editor/blob/main/Screenshots/snowySponza/scene.gif" width="39%" alt="Snowy Sponza" />
+  <img src="https://github.com/arthur-monteiro/Wolf-Engine-2.0--3D-Editor/blob/main/Screenshots/sponza_intel_2.png" width="43%" alt="Sponza RTGI" />
+  <img src="https://github.com/arthur-monteiro/Wolf-Engine-2.0--3D-Editor/blob/main/Screenshots/shadows/rt0.png" width="43%" alt="Sponza RT shadows" />
 </p>
 
 ---
